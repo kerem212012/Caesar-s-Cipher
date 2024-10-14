@@ -1,5 +1,5 @@
 # Caesar's Cipher
-## Who need it
+## Who needs
 if you want to hide your massage
 ### HOW TO USE
 you choose cipher or decipher than write language
