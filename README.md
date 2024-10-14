@@ -1,7 +1,7 @@
 # Caesar's Cipher
 ## Who need it
 if you want to hide your massage
-### HOW USE
+### HOW TO USE
 you choose cipher or decipher than write language
 after write shift and then your word
 and program ciphered or deciphered word
